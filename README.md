@@ -12,4 +12,4 @@ https://app.diagrams.net/test.drawio
 <img src="test.drawio.svg"
 
 
-https://github.com/dasc345/ADS-HOME-PAGE/blob/main/test.drawio
+https://github.com/dasc345/ADS-HOME-PAGE/blob/main/test.drawio.svg
