@@ -1,0 +1,3 @@
+interface ethernet 1/1
+ip address 10.0.0.1
+no shutdown
