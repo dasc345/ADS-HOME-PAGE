@@ -5,11 +5,9 @@
 
 ## Titre 🤡
 
-:clone:
 
 
 :saxophone:
-
 Test le 8 avril 2023
 
 <img src="test.drawio.svg"/>
